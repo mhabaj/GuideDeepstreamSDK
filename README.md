@@ -4,7 +4,6 @@ Guide détaillé d'installation et d'utilisation de DeepstreamSDK
 
 Par:
   -Alhabaj Mahmod
-  -Anica Sean
   -Belda Tom
   -Ingarao Adrien
   -Maggouh Naoufal
