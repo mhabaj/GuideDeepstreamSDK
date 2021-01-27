@@ -1,5 +1,5 @@
 # GuideDeepstreamSDK
-Guide détaillé d'installation et d'utilisation de DeepstreamSDK.
+Guide détaillé d'installation et d'utilisation de Deepstream SDK by Nvidia.
 
 
 Par:
